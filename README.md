@@ -21,16 +21,3 @@ To run the notebook, you must have Jupyter installed on your machine. You can in
 
 
 
-
-Ignore - notes for referencing
-Websites:
-
-Statistics
-
-https://www.statisticshowto.datasciencecentral.com/inferential-statistics/
-https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
-https://www.analyticsvidhya.com/
-Comprehensive & Practical Inferential Statistics Guide for data science
-
-Boston Housing
-
